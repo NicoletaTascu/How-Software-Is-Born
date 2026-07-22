@@ -1,6 +1,10 @@
 How-Software-Is-Born
-The stories behind the code
+- The stories behind the code
 
+Every application has two versions.
+The one users see.
+And the one that exists only inside the developer's mind.
+This repository is about the second one.
 
 Most repositories show the final result.
 This one doesn't.
