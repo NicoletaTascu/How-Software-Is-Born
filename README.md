@@ -19,7 +19,7 @@ Finally ... the code.
 This repository documents that journey.
 Not because there is only one correct solution.
 
-Why this repository exists?
+ - Why this repository exists?
 
 I learn best by building.
 Whenever I study a new technology, I create a personal project.
@@ -29,7 +29,7 @@ The project becomes my laboratory.
 The code becomes the result.
 The real work happens long before that.
 
-What you will find here?
+- What you will find here?
 
 This is not a tutorial.
 It is not a collection of code snippets.
@@ -41,14 +41,14 @@ And discusses the trade-offs behind that decision.
 Sometimes the final answer changes.
 That is part of engineering too.
 
-The first project!
+- The first project!
 
 The first project documented here is Viora.
 A simple personal application that originally started as an experiment to learn SwiftData.
 It slowly became something much more interesting: a journey about modeling ideas before modeling data.
 
-One principle - Technology is rarely the starting point. A problem is.
+- One principle - Technology is rarely the starting point. A problem is.
 
-Welcome
+- Welcome
 
 If this repository helps you think differently about software,then it has achieved its purpose.
