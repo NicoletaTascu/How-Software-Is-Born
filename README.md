@@ -17,7 +17,7 @@ This is not a tutorial. It is not a collection of code snippets. It is a collect
 
 The first project documented here is Viora. A simple personal application that originally started as an experiment to learn SwiftData. It slowly became something much more interesting: a journey about modeling ideas before modeling data.
 
-# One principle - ***Technology is rarely the starting point. A problem is.***
+ ***One principle*** - Technology is rarely the starting point. A problem is.
 
 *Welcome*
 
