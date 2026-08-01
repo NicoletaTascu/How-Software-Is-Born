@@ -16,7 +16,6 @@ Am încercat mai multe variante cu ajutorul AI. Nu pentru că voiam ca AI să-mi
 
 ![Colors and Fonts](Resources/Colors and Fonts.png)
 
-MarineGEO circle logo
 
 Apoi a început partea cea mai interesantă.
 
