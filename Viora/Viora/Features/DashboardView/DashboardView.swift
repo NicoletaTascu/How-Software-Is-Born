@@ -9,7 +9,11 @@ import SwiftUI
 
 struct DashboardView: View {
     var body: some View {
-        Text("Dashboard view")
+        VStack {
+            Text("Dashboard view")
+                .font(.title)
+                .foregroundStyle(.green)
+        }
     }
 }
 
