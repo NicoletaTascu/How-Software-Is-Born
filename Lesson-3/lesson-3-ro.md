@@ -29,3 +29,17 @@ Abia când primul ecran a început să "se simtă" așa cum îmi imaginam, am pu
 A fost un mod complet diferit de a lucra.
 
 Am ieșit din zona mea de confort și, surprinzător, tocmai acolo am învățat cel mai mult.
+
+---
+# O schimbare de perspectivă
+
+Când am început acest proiect, eram convinsă că tot ce este important se întâmplă înainte de prima linie de cod.
+
+Construind Viora, am descoperit că nu este întotdeauna adevărat.
+
+Uneori, prima linie de cod nu este începutul implementării.
+Este începutul descoperirii.
+
+Primul ecran nu mi-a validat ideea. M-a ajutat să o înțeleg.
+
+---
