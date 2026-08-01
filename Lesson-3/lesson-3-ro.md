@@ -13,6 +13,11 @@ Nu sunt designer.
 Aveam doar o idee despre cum voiam să se simtă aplicația.
 
 Am încercat mai multe variante cu ajutorul AI. Nu pentru că voiam ca AI să-mi facă designul, ci pentru că aveam nevoie să explorez opțiuni pe care singură nu le-aș fi văzut.
+
+![Colors and Fonts](Resources/Colors and Fonts.png)
+
+MarineGEO circle logo
+
 Apoi a început partea cea mai interesantă.
 
 Am ales un buton dintr-o propunere.
