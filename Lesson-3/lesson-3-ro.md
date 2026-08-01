@@ -14,7 +14,7 @@ Aveam doar o idee despre cum voiam să se simtă aplicația.
 
 Am încercat mai multe variante cu ajutorul AI. Nu pentru că voiam ca AI să-mi facă designul, ci pentru că aveam nevoie să explorez opțiuni pe care singură nu le-aș fi văzut.
 
-<img src="/Resources/EmptyDashboard.png" alt="Description" width="50" height="100">    <img src="/Resources/Full%20Dashboard.png" alt="Description" width="50" height="100"> <img src="/Resources/Colors%20and%20Fonts.png" alt="Description" width="100" height="200">   <img src="/Resources/Varianta%201.png" alt="Description" width="50" height="100">  <img src="/Resources/Varianta%202.png" alt="Description" width="50" height="100">
+<img src="/Resources/EmptyDashboard.png" alt="Description" width="50" height="100">    <img src="/Resources/Full%20Dashboard.png" alt="Description" width="50" height="100"> <img src="/Resources/Colors%20and%20Fonts.png" alt="Description" width="100" height="200">   <img src="/Resources/Varianta%201.png" alt="Description" width="100" height="200">  <img src="/Resources/Varianta%202.png" alt="Description" width="100" height="200">
 
 
 Apoi a început partea cea mai interesantă.
