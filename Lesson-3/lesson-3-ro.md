@@ -16,6 +16,8 @@ Am încercat mai multe variante cu ajutorul AI. Nu pentru că voiam ca AI să-mi
 
 ![Colors and Fonts](/Resources/EmptyDashboard.png | width=50)
 
+<img src="/Resources/EmptyDashboard.pngg" alt="Description" width="50" height="100">
+
 
 Apoi a început partea cea mai interesantă.
 
