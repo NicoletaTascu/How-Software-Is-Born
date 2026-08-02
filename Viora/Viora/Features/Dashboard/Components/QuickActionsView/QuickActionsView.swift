@@ -25,7 +25,6 @@ struct QuickActionsView: View {
                     ActionCardView(type: .expenses)
                     ActionCardView(type: .goal)
                 }
-                //.padding(6)
             }
         }
         .padding()

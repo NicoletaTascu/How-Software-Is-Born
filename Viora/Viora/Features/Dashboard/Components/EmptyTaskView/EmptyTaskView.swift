@@ -58,8 +58,6 @@ struct EmptyTaskView: View {
             }
         }
         .padding()
-        //.background(.white)
-        //.clipShape(.rect(cornerRadius: 14))
         .cardBackgroundModifier(
             backgroundColor: .white,
             borderColor: .purpleApp,
