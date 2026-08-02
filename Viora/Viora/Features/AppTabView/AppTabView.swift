@@ -21,7 +21,7 @@ struct AppTabView: View {
                     Text(String(localized: "tasks_tab", defaultValue: "Tasks"))
                 }
         }
-        .tint(.purple)
+        .tint(.purpleApp)
     }
 }
 
