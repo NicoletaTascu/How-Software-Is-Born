@@ -16,8 +16,8 @@ struct QuickActionsView: View {
                     .fontWeight(.semibold)
                 Spacer()
                 Text(String(localized: "see_all"))
-                    .font(.subheadline)
-                    .foregroundStyle(.purpleApp)
+                    .font(.caption)
+                    .foregroundStyle(.purpleApp.opacity(0.9))
             }
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack {

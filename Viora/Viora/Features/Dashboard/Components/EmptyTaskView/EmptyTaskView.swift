@@ -21,8 +21,8 @@ struct EmptyTaskView: View {
                     
                 } label: {
                     Text(String(localized: "see_all"))
-                        .font(.subheadline)
-                        .foregroundStyle(.purpleApp)
+                        .font(.caption)
+                        .foregroundStyle(.purpleApp.opacity(0.9))
                 }
             }
             HStack(spacing: 12) {

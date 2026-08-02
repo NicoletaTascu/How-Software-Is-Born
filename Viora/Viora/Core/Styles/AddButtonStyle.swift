@@ -26,7 +26,7 @@ struct AddButtonStyle: ButtonStyle {
             )
             .shadow(
                 color: backgroundColor.opacity(
-                    configuration.isPressed ? 0.18 : 0.30
+                    configuration.isPressed ? 0.18 : 0.20
                 ),
                 radius: configuration.isPressed ? 2 : 8,
                 x: 0,

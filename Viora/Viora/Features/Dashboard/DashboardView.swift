@@ -15,7 +15,7 @@ struct DashboardView: View {
             VStack(alignment: .leading, spacing: 30) {
                 Text(viewModel.greetingWithName)
                     .font(.headline)
-                    .foregroundStyle(.gray600.opacity(0.5))
+                    .foregroundStyle(.gray600.opacity(0.7))
                 
                 StatisticsRowView(
                     tasksCount: 0,
