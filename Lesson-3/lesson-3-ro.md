@@ -24,6 +24,8 @@ Spațierea din alta.
 Culorile dintr-o a treia.
 Am eliminat multe lucruri care nu transmiteau sentimentul de calm și simplitate pe care îl căutam.
 
+<img src="/Resources/Dashboard.png" alt="Description" width="200" height="400">
+
 Abia când primul ecran a început să "se simtă" așa cum îmi imaginam, am putut să mă gândesc la restul aplicației.
 
 A fost un mod complet diferit de a lucra.
