@@ -187,3 +187,5 @@ De data aceasta nu mai era despre abstracție.
 Era despre responsabilitatea funcției și despre garanțiile pe care aceasta ar trebui să le ofere.
 
 Aceasta este povestea din partea a doua.
+
+🇬🇧 [Read this lesson in English](./lesson-4-part-1-en.md)
