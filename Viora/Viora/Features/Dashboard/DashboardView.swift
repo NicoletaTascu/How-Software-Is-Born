@@ -8,7 +8,11 @@
 import SwiftUI
 
 struct DashboardView: View {
-    @State private var viewModel: DashboardViewModel = .init()
+    @State private var viewModel: DashboardViewModel
+    
+    init(database: DatabaseProtocol) {
+        _viewModel = State(wrappedValue: DashboardViewModel(database: database))
+    }
     
     var body: some View {
         ScrollView {
@@ -36,5 +40,6 @@ struct DashboardView: View {
 }
 
 #Preview {
-    DashboardView()
+    let appContainer = AppContainer(inMemory: true)
+    AppTabView(appContainer: appContainer)
 }

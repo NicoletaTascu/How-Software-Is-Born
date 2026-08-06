@@ -9,11 +9,11 @@ import SwiftUI
 
 @main
 struct VioraApp: App {
-
+    private let appContainer = AppContainer()
 
     var body: some Scene {
         WindowGroup {
-            AppTabView()
+            AppTabView(appContainer: appContainer)
         }
     }
 }

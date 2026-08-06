@@ -8,9 +8,11 @@
 import SwiftUI
 
 struct AppTabView: View {
+    let appContainer: AppContainer
+    
     var body: some View {
         TabView {
-            DashboardView()
+            DashboardView(database: appContainer.databaseManager)
                 .tabItem {
                     Image(systemName: "house")
                     Text(String(localized: "home_tab", defaultValue: "Home"))
@@ -26,5 +28,5 @@ struct AppTabView: View {
 }
 
 #Preview {
-    AppTabView()
+    AppTabView(appContainer: AppContainer())
 }

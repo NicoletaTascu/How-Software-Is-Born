@@ -9,6 +9,12 @@ import Foundation
 
 @Observable
 final class DashboardViewModel {
+    private let database: DatabaseProtocol
+    
+    init(database: DatabaseProtocol) {
+        self.database = database
+    }
+    
     var userName: String = "Nicoleta"
     
     var greeting: String.LocalizationValue {
@@ -23,9 +29,5 @@ final class DashboardViewModel {
         String(
             localized: greeting) + ", \(userName) 👋"
 
-    }
-    
-    init() {
-        print("DashboardViewModel init")
     }
 }
