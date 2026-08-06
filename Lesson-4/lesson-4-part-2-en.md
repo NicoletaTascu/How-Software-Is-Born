@@ -225,3 +225,5 @@ The answer is the entire transaction.
 That single realization completely changed the implementation.
 
 And, perhaps more importantly, it changed the way I think about designing APIs.
+
+🇷🇴 [Read this lesson in Romanian](./lesson-4-part-2.md)
