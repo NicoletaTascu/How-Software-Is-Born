@@ -84,3 +84,5 @@ De fapt, am ieșit din zona mea de confort pentru a-mi construi propriul proces 
 Și cred că aceasta este una dintre cele mai valoroase lecții pe care mi le-a oferit acest proiect.
 
 ---
+
+🇬🇧 [Read this lesson in English](./lesson-3-en.md)
