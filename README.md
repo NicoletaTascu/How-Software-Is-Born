@@ -25,6 +25,9 @@ The first project documented here is Viora. A simple personal application that o
 | 1 — Why Personal Projects Matter | [Read](./Lesson-1/lesson-1-en.md) | [Citește](./Lesson-1/lesson-1-ro.md) |
 | 2 — Before the Interface | [Read](./Lesson-2/lesson-2-en.md) | [Citește](./Lesson-2/lesson-2-ro.md) |
 | 3 — Sometimes You Have to Start Where You're Told Not To | [Read](./Lesson-3/lesson-3-en.md) | [Citește](./Lesson-3/lesson-3-ro.md) |
+| 4 — Database Service Part 1 | [Read](./Lesson-4/lesson-4-part-1-en.md) | [Citește](./Lesson-4/lesson-4-part-1-ro.md) |
+| 4 — Database Service Part 2 | [Read](./Lesson-4/lesson-4-part-2-en.md) | [Citește](./Lesson-4/lesson-4-part-2.md) |
+| 4 — Database Service Evolution | [Read](./Lesson-4/lesson-4-evolution-en.md) | [Citește](./Lesson-4/lesson-4-evolutie-ro.md) |
 
 ***One principle*** — Technology is rarely the starting point. A problem is.
 
