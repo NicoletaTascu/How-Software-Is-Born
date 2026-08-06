@@ -247,3 +247,5 @@ Nu pentru că aș fi vrut să justific codul.
 Ci pentru că nu voiam să uit procesul care m-a adus până aici.
 
 În ultima parte a lecției am adunat aceste observații într-un document pe care l-am numit **Design Evolution**.
+
+🇬🇧 [Read this lesson in English](./lesson-4-part-2-en.md)
