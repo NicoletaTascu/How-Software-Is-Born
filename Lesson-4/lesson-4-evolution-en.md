@@ -259,3 +259,5 @@ but also
 > "Does the implementation express the guarantees I want this API to provide?"
 
 That shift in perspective is, for me, the real lesson behind this refactoring.
+
+🇷🇴 [Read this lesson in Romanian](./lesson-4-evolutie-ro.md)
