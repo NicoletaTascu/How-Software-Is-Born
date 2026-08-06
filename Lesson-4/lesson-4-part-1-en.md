@@ -165,3 +165,5 @@ This time, it wasn't about abstraction.
 It was about intent.
 
 That became the second refactoring.
+
+🇷🇴 [Read this lesson in Romanian](./lesson-4-part-1-ro.md)
